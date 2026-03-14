@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 img{
+    width: 30px;
+    padding-right: 0px;
+    padding-left: 5px;
+}
+
+body {
+    background-color: darkorchid;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+header h1 {
+    border: 10px solid;
+    border-radius: 20px;
+    border-color:burlywood;
+}
+
+.Акит {
+    margin: 0 auto;
+}
+
+head h1 {
+    border: 10px solid;
+    border-radius: 20px;
+    border-color:aqua;
+}
+footer {
+    background-color: aliceblue;
+}
+
+header img {
+
+}
+
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    border: 10px solid;
+    border-radius: 20px;
+    border-color:chocolate;
+    background-color: chocolate;
+}
+
+.Ji {
+    text-align: left;
+    margin: 20px;
+}
+
+.Jo {
+    text-align: center;
+    margin: 20px;
+}
+
+.Jp {
+    text-align: right;
+    margin: 20px;
+}
+
+main h1 {
+    border: 10px solid;
+    border-radius: 20px;
+    border-color:burlywood;
+}
+
+h2 {
+    color: aliceblue;
+}
